@@ -14,7 +14,7 @@
 //var thisTime = new Date("February 3, 2018 03:15:28 AM");
 
 //after that, change the date to current date:
-var thisTime = new Date("February 22, 2021 10:03:00 PM")
+var thisTime = new Date();
 var timeStr = thisTime.toLocaleString();
 
 
